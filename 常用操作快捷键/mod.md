@@ -1,0 +1,14 @@
+## VS Coder常用的快捷键
+- F1 / Ctrl+Shift+P：万能键，搜索
+- Ctrl + P : 文件切换
+- Ctrl + 空格 ： 自动提示
+- F12 / Ctrl + 左键 ： 跳转到定义
+- Shift + F12 ： 预览定义
+- Ctrl + G ： 跳转行号
+- Ctrl + / ： 注释切换
+- Alt + ↑ ↓： 整行上下移动
+- Ctrl + ↑ ↓： 编辑器滚动条上下移动，光标不动
+- Ctrl + Backspa / Delete ： 整词 / 连续空白删除
+- Ctrl + → ← ： 光标整词移动
+- Ctrl + F ：查找
+- Ctrl + Shift + F ： 在文件中查找
